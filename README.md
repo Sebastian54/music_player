@@ -1,3 +1,4 @@
+
 # Music Player for Arduino!
 
 This is my first Arduino Project in University, so it's not going to be perfect by any means.
@@ -22,7 +23,13 @@ This is my first Arduino Project in University, so it's not going to be perfect 
 *to be added
 
 
+## Music List
 
+ 1. Tetris Theme
+ 2. Imperial March - Star Wars
+ 3. Take on Me - Aha
+ 4. Nokia Ringtone
+ 5. Cantina Band - Star Wars
 
 ## Sources
 
